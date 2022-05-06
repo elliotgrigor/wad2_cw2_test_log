@@ -1,7 +1,7 @@
 {
   "name": "wad2_cw2_test_log",
   "version": "1.0.0",
-  "description": "Generates the testing log table as a PDF for wad2_cw2 website.",
+  "description": "Generates the testing log table as a PDF for the wad2_cw2 website.",
   "main": "app.js",
   "scripts": {
     "start": "node .",
